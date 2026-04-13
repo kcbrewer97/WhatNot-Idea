@@ -1,0 +1,26 @@
+brand,line,canonical_name,category,subcategory,item_type,fabric,pattern,silhouette,original_retail_price,era,estimated_resale_low,estimated_resale_median,estimated_resale_high,rarity_tier,status
+Free People,,Adella Slip Dress,Dresses,Midi,free_people,Lace/Cotton,Floral Lace,Slip,148.00,,45.00,65.00,85.00,common,active
+Free People,,Adella Bralette,Intimates,Bralette,free_people,Lace,Floral Lace,Bralette,38.00,,12.00,20.00,28.00,common,active
+Free People,FP Movement,Hot Shot Mini Dress,Dresses,Mini,free_people,Cotton/Spandex,Solid,Mini,68.00,,25.00,38.00,50.00,common,active
+Free People,We The Free,Arden Tee,Tops,T-Shirt,free_people,Cotton,Solid,Oversized,58.00,,15.00,25.00,35.00,common,active
+Free People,,Dahlia Embroidered Top,Tops,Blouse,free_people,Cotton,Embroidered,Peasant,88.00,,30.00,48.00,65.00,uncommon,active
+Free People,Intimately FP,Seamless Bodysuit,Intimates,Bodysuit,free_people,Nylon/Spandex,Solid,Bodysuit,48.00,,12.00,22.00,30.00,common,active
+Free People,,FP One Scout Jacket,Outerwear,Jacket,free_people,Cotton Canvas,Solid,Utility,168.00,,55.00,80.00,110.00,uncommon,active
+Free People,,Catalina Thermal,Tops,Thermal,free_people,Waffle Knit,Solid,Fitted,68.00,,18.00,30.00,42.00,common,active
+Free People,,Caught in the Moment Dress,Dresses,Maxi,free_people,Chiffon,Floral,Maxi,198.00,,50.00,85.00,120.00,uncommon,active
+Free People,,Movement Practice Makes Perfect Top,Tops,Active,free_people,Performance Knit,Solid,Cropped,58.00,,15.00,28.00,38.00,common,active
+Free People,,Just Float On Flare Jeans,Bottoms,Jeans,free_people,Denim,Solid,Flare,78.00,,25.00,42.00,55.00,common,active
+Free People,,FP New Romantics Maxi,Dresses,Maxi,free_people,Mixed Fabric,Patchwork,Maxi,228.00,,65.00,110.00,160.00,scarce,archived
+Free People,,Rare Hearts Sweater,Sweaters,Pullover,free_people,Wool Blend,Heart,Oversized,148.00,,40.00,68.00,95.00,uncommon,active
+Free People,,Penny Pull-On Flare,Bottoms,Pants,free_people,Corduroy,Solid,Flare,88.00,,28.00,45.00,60.00,common,active
+Free People,We The Free,Big Sky Hoodie,Tops,Sweatshirt,free_people,French Terry,Solid,Oversized,98.00,,30.00,50.00,68.00,common,active
+Harley-Davidson,,Eagle Graphic Tee,Tops,T-Shirt,vintage,Cotton,Eagle Graphic,Standard,,,40.00,75.00,120.00,uncommon,active
+Harley-Davidson,,Bar & Shield Logo Tee,Tops,T-Shirt,vintage,Cotton,Logo,Standard,,,25.00,45.00,80.00,common,active
+Harley-Davidson,,Flame Sleeve Long Sleeve,Tops,Long Sleeve,vintage,Cotton,Flame Graphic,Standard,,,35.00,60.00,100.00,scarce,active
+,,Vintage Band Tee - Grateful Dead,Tops,T-Shirt,vintage,Cotton,Band Graphic,Standard,,,50.00,95.00,180.00,scarce,active
+,,Vintage Band Tee - Rolling Stones,Tops,T-Shirt,vintage,Cotton,Band Graphic,Standard,,,40.00,70.00,140.00,uncommon,active
+Levi's,,Vintage 501 Jeans,Bottoms,Jeans,vintage,Denim,Solid,Straight,,,30.00,55.00,90.00,common,active
+Nike,,Vintage Swoosh Tee,Tops,T-Shirt,vintage,Cotton,Logo,Standard,,,20.00,40.00,75.00,common,active
+,,Vintage Western Pearl Snap Shirt,Tops,Button-Down,vintage,Cotton/Poly,Western,Western,,,25.00,45.00,80.00,uncommon,active
+,,Vintage 90s Windbreaker,Outerwear,Jacket,vintage,Nylon,Colorblock,Windbreaker,,,20.00,40.00,70.00,common,active
+,,Vintage College Crewneck Sweatshirt,Tops,Sweatshirt,vintage,Cotton/Poly,College Logo,Crewneck,,,25.00,45.00,75.00,common,active
